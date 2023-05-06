@@ -1,6 +1,8 @@
-Lockpick_RCM
+lp_rcm
 =
-Lockpick_RCM is a bare metal Nintendo Switch payload that derives encryption keys for use in Switch file handling software like hactool, hactoolnet/LibHac, ChoiDujour, etc. without booting Horizon OS.
+lp_rcm is a mirror of Lockpick_RCM, abare metal NX payload that derives encryption keys for use in NX file handling software like hactool, hactoolnet/LibHac, ChoiDujour, etc. without booting Horizon OS.
+
+## Original information
 
 Due to changes imposed by firmware 7.0.0, Lockpick homebrew can no longer derive the latest keys. In the boot-time environment however, there is no such limitation.
 
